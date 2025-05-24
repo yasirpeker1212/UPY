@@ -1,37 +1,36 @@
 # UPL (Ultimate Python Launcher)
 
-UPL, Spotlight ve Rofi benzeri hızlı ve güçlü bir **Python tabanlı launcher** uygulamasıdır. Linux kullanıcıları için tasarlanmıştır ve günlük işlemleri çok hızlı ve kolay yapmanızı sağlar.
+UPL is a fast and powerful **Python-based launcher** application similar to Spotlight and Rofi. It is designed for Linux users and allows you to perform daily tasks quickly and easily.
 
 ---
 
-## Özellikler
+## Features
 
-- 🔢 **Basit matematiksel işlemler:** Hemen hesaplama yapabilirsin.
-- 🚀 **Uygulama çalıştırma:** İstediğin uygulamaları hızlıca başlat.
-- 🌐 **Çoklu dil desteği:** İngilizce ve Türkçe dillerinde kullanılabilir.
-- 📅 `!date` ile **tarih öğrenme**
-- ⏰ `!time` ile **şu anki zamanı öğrenme**
-- 🎨 `!themes` ile **çok ama çok fazla tema arasından seçim yapma**
-- 🔎 `!g` ve `!duck` komutlarıyla **internette hızlı arama yapma**
-- 📁 **Dosya aratma**
-- 📂 `!mkdir` ile klasör oluşturma
-- 📄 `!touch` ile dosya oluşturma
-- …ve çok daha fazlası!
+- 🔢 **Simple mathematical operations:** Perform calculations instantly.
+- 🚀 **Launch applications:** Quickly start the apps you want.
+- 🌐 **Multi-language support:** Available in English and Turkish.
+- 📅 Use `!date` to **check the current date**.
+- ⏰ Use `!time` to **check the current time**.
+- 🎨 Use `!themes` to **choose from a vast number of themes**.
+- 🔎 Use `!g` and `!duck` commands to **search the internet quickly**.
+- 📁 **File searching**
+- 📂 Use `!mkdir` to create folders.
+- 📄 Use `!touch` to create files.
+- …and much more!
 
 ---
 
-## Kurulum
+## Installation
 
-1. Python 3 yüklü olduğundan emin olun.
-2. Depoyu klonlayın veya `main.py` dosyasını indirin.
-4. Uygulamayı çalıştırın:
+1. Make sure Python 3 is installed.
+2. Clone the repository or download the `main.py` file.
+3. Run the application:
 
 ```bash
 python main.py
 ```
-## Kısayollar
+## Shortcuts
+- **Add the launcher to your system shortcuts for even faster access!**
 
-- **Bilgisayarınızın kısayollarına ekleyerek hızlı işlemler gerçekleştirin!**
-
-## Nasıl Kullanılır?
-- **Tema önizlemek için önce sağ ok tuşuna basın. Ardından beğendiğiniz temanın üstüne gelin ve sol ok tuşuna basıp enterlayın.**
+## How to Use?
+- **To preview themes, first press the right arrow key. Then move over the theme you like, press the left arrow key, and hit enter.**
