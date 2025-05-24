@@ -32,3 +32,6 @@ python main.py
 ## Kısayollar
 
 - **Bilgisayarınızın kısayollarına ekleyerek hızlı işlemler gerçekleştirin!**
+
+## Nasıl Kullanılır?
+- **Tema önizlemek için önce sağ ok tuşuna basın. Ardından beğendiğiniz temanın üstüne gelin ve sol ok tuşuna basıp enterlayın.**
