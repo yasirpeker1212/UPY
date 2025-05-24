@@ -1,3 +1,5 @@
+![UPL demo](Branding/Themes.gif)
+
 # UPL (Ultimate Python Launcher)
 
 UPL is a fast and powerful **Python-based launcher** application similar to Spotlight and Rofi. It is designed for Linux users and allows you to perform daily tasks quickly and easily.
