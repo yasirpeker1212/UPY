@@ -36,3 +36,6 @@ python main.py
 
 ## How to Use?
 - **To preview themes, first press the right arrow key. Then move over the theme you like, press the left arrow key, and hit enter.**
+
+## Where is my selected theme or language is?
+- **UPL creates a folder called ".upy" in your home directory and saves these informations to that directory.**
